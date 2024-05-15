@@ -1,0 +1,72 @@
+id,name,contact_number,total_co2_reduced,status,area
+1000000,Nalashaa Solutions,NULL,2981771.02,ACTIVE,Hsr Layout
+1000001,Minjar Cloud Solutions,NULL,811822.76,INACTIVE,Hosur Road
+1000002,Etag Software Solutions Private Limited,NULL,2462971.32,ACTIVE,Malleswaram
+1000003,Keystone Automative Operations(India) Private Limited,NULL,20394910,INACTIVE,JP Nagar
+1000004,Kabbage India Private Limited,NULL,624480.04,INACTIVE,Indiranagar
+1000005,Happiest Minds Technologies Pvt Ltd,NULL,10845125.42,INACTIVE,Hosur Road
+1000006,Appviewx Pvt Ltd,NULL,562702.54,ACTIVE,Varthur Hobli
+1000007,MSI Services Private Limited,NULL,1375582.6,INACTIVE,Palace Cross Road
+1000008,People10 Technosoft Private Limited,NULL,912320.76,INACTIVE,Whitefield
+1000009,Accion Labs India Private Limited,080-42494322,3526275.948,ACTIVE,Varthur Kodi
+1000010,Tegile Systems Private Limited,NULL,4251698.78,INACTIVE,Whitefield
+1000011,ThinkRoot Technologies Private Limited,NULL,435607.96,DEACTIVATED,Indiranagar
+1000012,Phasorz Technologies Pvt. Ltd.(Docsapp),NULL,1545387,INACTIVE,Domlur
+1000013,Nextweb Technologies India Private Limited,NULL,244564,INACTIVE,Koramangala
+1000014,Support.com India Pvt. Ltd.,NULL,1795122,INACTIVE,Koramangala Industrial Layout
+1000015,Bravoventure India Pvt. Ltd. (Lastminute.com),NULL,354034,INACTIVE,Kadubeesanahalli
+1000016,Tavant Technologies India Pvt. Ltd.,NULL,70467,INACTIVE,Koramangala
+1000017,Zrotra Realtytech Private Limited,NULL,381908,INACTIVE,Hsr Layout
+1000018,Tekwissen Software Private Limited,NULL,1280796,ACTIVE,"Siripuram,"
+1000019,Bias Infotech Pvt. Ltd.,NULL,1162335,ACTIVE,Panduranga Nagar
+1000020,Spirent Communications (India) Private Limited,NULL,2058850,INACTIVE,Kadubeesanahalli
+1000021,Mobile Iron India Software Pvt. Ltd.,NULL,398162,ACTIVE,"Devarabeesanahalli, Sarjapura Outer Ring Road"
+1000022,Krueger International Furniture Systems Private Limited,NULL,33956,INACTIVE,Anekal TQ
+1000023,Infrascale India Private Limited,NULL,0,ACTIVE,Hsr Layout
+1000024,Encora Innovation Labs India Private Limited,NULL,88484,ACTIVE,Mg Road
+1000025,Sourceedge Software Technologies Private Limited,NULL,0,DEACTIVATED,Basavanagudi
+1000026,Cygate Cloud Services Private Limited,NULL,0,INACTIVE,Whitefield
+1000027,Azim Premji Foundation,NULL,0,INACTIVE,Sarjapur Road
+1000028,Acendre India Private Limited,NULL,0,INACTIVE,Banashankari
+1000029,Net Right Technologies Private Limited,NULL,0,ACTIVE,Koramangala
+1000030,Anzy Careers Private Limited,NULL,0,INACTIVE,Hsr Layout
+1000031,Continuserve Softech India Private Limited,NULL,0,INACTIVE,Hongasandra
+1000032,Pravasi Info Technologies Private Limited,NULL,0,INACTIVE,Whitefield
+1000033,Zynom Technologies Private Limited,NULL,0,ACTIVE,Whitefield
+1000034,Quicken Software Development Private Limited,NULL,0,INACTIVE,Bellandur
+1000035,Uriah Solutions Private Limited,NULL,0,DEACTIVATED,HSR Layout
+1000036,Cygnuspro Software Solutions Private Limited,NULL,0,INACTIVE,Varthur Road
+1000037,Polaris India Private Limited,NULL,0,ACTIVE,Kadubeesanahalli
+1000038,Amicorp Management India Private Limited,NULL,0,INACTIVE,Bellandur
+1000039,Shreeji Marketing Corporation,NULL,0,INACTIVE,Navrangpura
+1000040,Real Soft (Intl) Pvt. Ltd.,NULL,0,ACTIVE,Benniganahalli
+1000041,Cleo Software Private Limited,NULL,NULL,INACTIVE,Kadubisanahalli Village
+1000042,Servicemax Technologies (India) Pvt. Ltd.,NULL,NULL,ACTIVE,Halasuru
+1000043,Rlabs Enterprise Services Limited,NULL,NULL,INACTIVE,Hsr Layout
+1000044,Webscale Networks India Private Limited,NULL,NULL,ACTIVE,Jp Nagar
+1000045,Insnap Technologies Pvt. Ltd.,NULL,NULL,ACTIVE,Koramangala 4th Block
+1000046,Stickman Consulting Private Limited,NULL,NULL,INACTIVE,Lottegollahalli
+1000047,Appiness Interactive Pvt. Ltd,NULL,NULL,INACTIVE,Koramangala
+1000048,Envision Financial Systems (India) Pvt. Ltd.,NULL,NULL,ACTIVE,Beratana Agrahara
+1000049,Galactus Funware Technology Pvt. Ltd.,NULL,NULL,ACTIVE,Srirampuram
+1000050,Solutions Infini Technologies(India) Private Limited,NULL,NULL,ACTIVE,"Jp Nagar, Bannerghatta Mn Rd, Bilekahalli"
+1000051,Wonksknow Technologies India Private Limited,NULL,NULL,ACTIVE,Prakash Nagar
+1000052,Ridemix Solutions Pvt Ltd,NULL,NULL,INACTIVE,Padmanabha Nagar
+1000053,Ridecell India Private Limited,NULL,NULL,INACTIVE,Parel
+1000054,Ceptes Software Private Limited,NULL,NULL,INACTIVE,Varthur Hobli
+1000055,Tuebora Software Private Limited,NULL,NULL,INACTIVE,Belandur
+1000056,Mpower International Student Services Llp,NULL,NULL,ACTIVE,Binnamangala 1st Stage
+1000057,Schmear Private Limited,NULL,NULL,ACTIVE,Rt Nagar Post
+1000058,Tims Solutions Private Limited,NULL,NULL,INACTIVE,Begur Hobli
+1000059,Herbalife International India Pvt Ltd,NULL,NULL,ACTIVE,Opp To Ashok Nagar Police Station
+1000060,Isend Services India Private Limited,NULL,NULL,INACTIVE,Koramangala 4th Block
+1000061,Phdata Solutions Private Limited,NULL,NULL,ACTIVE,Corporation Division No.72
+1000062,Hangar India( A Division Of Tbwa India Pvt Ltd),NULL,NULL,ACTIVE,Greater Kailash
+1000063,Reqifi Solutions Private Limited,NULL,NULL,INACTIVE,Kundalahalli
+1000064,Presenova Management Solutions Llp,NULL,NULL,INACTIVE,Richmond Town
+1000065,Cabs Den Pvt. Ltd.,NULL,NULL,INACTIVE,Wilson Garden
+1000066,Ig Infotech (India) Private Limited,NULL,NULL,ACTIVE,Challagatta Village
+1000067,Stibo Systems India Private Limited,NULL,NULL,ACTIVE,Arekere Gate Junction
+1000068,Streamvector Technology Private Limited,NULL,NULL,ACTIVE,"Silver Springs Layout, Munnekollal"
+1000069,Converge Electronics Trading (India) Private Limited,NULL,NULL,ACTIVE,Kasturi Nagar
+1000070,Evolvebpm (Opc) Private Limited,NULL,NULL,ACTIVE,Cv Raman Nagar
